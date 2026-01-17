@@ -19,6 +19,7 @@ export default defineConfig(({ mode }) => {
         "@": path.resolve(__dirname, "."),
       },
     },
+    publicDir: "assets",
     assetsInclude: [
       "**/*.png",
       "**/*.jpg",
@@ -35,5 +36,9 @@ export default defineConfig(({ mode }) => {
       "**/*.mp4",
       "**/*.webm",
     ],
+    build: {
+      assetsDir: "assets",
+      copyPublicDir: true,
+    },
   };
 });
