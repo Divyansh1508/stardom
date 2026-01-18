@@ -103,7 +103,7 @@ const Home: React.FC = () => {
                   // Use actual product images from assets folder
                   src={
                     cat === "Fans"
-                      ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle blue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg"
+                      ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagleblue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg"
                       : cat === "Geysers"
                         ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyserElectric/Geyser main Image.jpg"
                         : cat === "roomHeaters"

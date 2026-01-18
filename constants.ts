@@ -66,18 +66,18 @@ export const PRODUCTS: Product[] = [
     category: "Fans",
     price: 2799.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/aura ivery/deecee-series-24-hi-speed-65-1-ceiling-fan-600-stardom-original-imah4kyh5ny3gyxy.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/auraivery/deecee-series-24-hi-speed-65-1-ceiling-fan-600-stardom-original-imah4kyh5ny3gyxy.jpg",
     description: "Elegant ivory colored fan with ultra-high speed performance.",
     rating: 4.4,
     features: ["24 Inch", "High Speed", "Ivory Finish", "Premium Design"],
   },
   {
     id: "fan-4",
-    name: "Aura SB",
+    name: "aurasb",
     category: "Fans",
     price: 2899.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/aura sb/deecee-series-ultra-high-speed-24-inch-65-1-ceiling-fan-600-original-imah4kyg5qzhsxhe.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/aurasb/deecee-series-ultra-high-speed-24-inch-65-1-ceiling-fan-600-original-imah4kyg5qzhsxhe.jpg",
     description:
       "Ultra high speed fan with smoke brown finish for modern interiors.",
     rating: 4.5,
@@ -85,11 +85,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-5",
-    name: "Eagle Blue",
+    name: "eagleblue",
     category: "Fans",
     price: 3199.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle blue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagleblue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg",
     description: "Ultra high speed eagle series fan with blue finish.",
     rating: 4.7,
     features: ["Ultra High Speed", "24 Inch", "Blue Finish", "Eagle Series"],
