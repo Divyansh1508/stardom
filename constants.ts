@@ -168,11 +168,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-12",
-    name: "racerblack",
+    name: "racerBlack",
     category: "Fans",
     price: 2799.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racerblack/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj7mgnmj4qe9.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racerBlack/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj7mgnmj4qe9.jpg",
     description:
       "Racer series fan with unique black design and ultra high speed.",
     rating: 4.5,
