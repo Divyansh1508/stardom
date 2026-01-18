@@ -21,7 +21,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <NavLink to="/" className="flex items-center space-x-2 group">
             <img
-              src="/assets/logo.png"
+              src="./assets/logo.png"
               alt="Stardom Appliances Logo"
               className="h-12 w-auto transition-transform group-hover:scale-105"
             />
