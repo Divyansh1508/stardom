@@ -103,11 +103,11 @@ const Home: React.FC = () => {
                   // Use actual product images from assets folder
                   src={
                     cat === "Fans"
-                      ? "/assets/stardom product (1)-20250823T125051Z-1-001/stardom product (1)/fan/eagle blue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg"
+                      ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle blue/eagle-ultra-high-speed-24-inch-50-0-1-ceiling-fan-600-0-stardom-original-imah2ts2bvbhr6gp.jpg"
                       : cat === "Geysers"
-                        ? "/assets/stardom product (1)-20250823T125051Z-1-001/stardom product (1)/geyser electric/Geyser main Image.jpg"
+                        ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyser electric/Geyser main Image.jpg"
                         : cat === "Room Heaters"
-                          ? "/assets/stardom product (1)-20250823T125051Z-1-001/stardom product (1)/room heater/Room-Heater-1.jpg"
+                          ? "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/room heater/Room-Heater-1.jpg"
                           : `https://picsum.photos/600/800?random=${idx + 10}`
                   }
                   alt={cat}
