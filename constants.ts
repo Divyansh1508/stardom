@@ -124,22 +124,22 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-8",
-    name: "Eagle Deco SB",
+    name: "eagledecosb",
     category: "Fans",
     price: 3499.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle deco sb/eagle-deco-ultra-high-speed-24-inch-met-blue-55-0-1-ceiling-fan-original-imaha54e3d6pu4rs.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagledecosb/eagle-deco-ultra-high-speed-24-inch-met-blue-55-0-1-ceiling-fan-original-imaha54e3d6pu4rs.jpg",
     description: "Smoke brown decorative eagle series fan.",
     rating: 4.6,
     features: ["Smoke Brown", "Decorative", "Ultra High Speed", "Eagle Series"],
   },
   {
     id: "fan-9",
-    name: "Eagle White",
+    name: "eaglewhite",
     category: "Fans",
     price: 3299.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle white/eagle-ultra-high-speed-24-inch-white-blue-50-1-ceiling-fan-600-original-imah4kygf2k5mfpe.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eaglewhite/eagle-ultra-high-speed-24-inch-white-blue-50-1-ceiling-fan-600-original-imah4kygf2k5mfpe.jpg",
     description: "White and blue eagle fan with ultra high speed performance.",
     rating: 4.5,
     features: ["White Blue", "Ultra High Speed", "24 Inch", "Eagle Series"],
@@ -157,22 +157,22 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-11",
-    name: "Fiesta Ivory",
+    name: "fiestaivory",
     category: "Fans",
     price: 2999.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/fiesta ivory/deecee-super-dlx-24-ultra-hi-speed-65-1-ceiling-fan-600-stardom-original-imah4kyj8dcv7agm.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/fiestaivory/deecee-super-dlx-24-ultra-hi-speed-65-1-ceiling-fan-600-stardom-original-imah4kyj8dcv7agm.jpg",
     description: "Super deluxe ivory fan with ultra high speed performance.",
     rating: 4.4,
     features: ["Super Deluxe", "Ultra High Speed", "24 Inch", "Ivory Finish"],
   },
   {
     id: "fan-12",
-    name: "Racer Black",
+    name: "racerblack",
     category: "Fans",
     price: 2799.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racer black/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj7mgnmj4qe9.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racerblack/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj7mgnmj4qe9.jpg",
     description:
       "Racer series fan with unique black design and ultra high speed.",
     rating: 4.5,
@@ -185,11 +185,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-13",
-    name: "Racer Blue",
+    name: "racerblue",
     category: "Fans",
     price: 2799.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racer blue/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj85sxjzkxbz.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racerblue/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagtj85sxjzkxbz.jpg",
     description:
       "Blue racer fan with unique design and ultra high speed performance.",
     rating: 4.4,
@@ -206,7 +206,7 @@ export const PRODUCTS: Product[] = [
     category: "Fans",
     price: 2699.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racer ivery/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagsf772kbfjd2c.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/racerivery/racer-ultra-high-speed-with-unique-look-50-1-ceiling-fan-1200-original-imagsf772kbfjd2c.jpg",
     description: "Ivory racer fan with unique look and ultra high speed.",
     rating: 4.3,
     features: [
