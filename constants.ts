@@ -51,11 +51,11 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-2",
-    name: "BLDC SB",
+    name: "BLDCSB",
     category: "Fans",
     price: 3299.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/BLDC SB/sparkle-with-led-light-27-1-ceiling-fan-1200-stardom-original-imah2vzxqezbzbjx.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/BLDCSB/sparkle-with-led-light-27-1-ceiling-fan-1200-stardom-original-imah2vzxqezbzbjx.jpg",
     description: "Premium BLDC fan with LED lights and superior air delivery.",
     rating: 4.6,
     features: ["LED Lights", "BLDC Motor", "Remote Control", "High Speed"],
