@@ -38,7 +38,7 @@ export const PRODUCTS: Product[] = [
     category: "Fans",
     price: 2999.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/BLDC BLUE CACTOUS/cactus-with-remote-27-1-ceiling-fan-1200-stardom-original-imahajezpqzhbfyz.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/BLDCBLUECACTOUS/cactus-with-remote-27-1-ceiling-fan-1200-stardom-original-imahajezpqzhbfyz.jpg",
     description:
       "Energy efficient BLDC ceiling fan with remote control and modern cactus design.",
     rating: 4.5,
