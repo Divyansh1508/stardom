@@ -96,22 +96,22 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "fan-6",
-    name: "Eagle Deco Blue White",
+    name: "eagle deco blue white",
     category: "Fans",
     price: 3499.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle deco blue white/eagle-deco-ultra-high-speed-white-blue-24-inch-600-mm-4-blade-original-imaha55xbmggypgx.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagledecobluewhite/eagle-deco-ultra-high-speed-white-blue-24-inch-600-mm-4-blade-original-imaha55xbmggypgx.jpg",
     description: "Premium decorative fan with blue and white finish.",
     rating: 4.8,
     features: ["Decorative Design", "4 Blade", "Blue White", "Premium Finish"],
   },
   {
     id: "fan-7",
-    name: "Eagle Deco MB",
+    name: "eagledecomb",
     category: "Fans",
     price: 3599.0,
     image:
-      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagle deco mb/eagle-deco-ultra-high-speed-24-inch-met-blue-55-1-ceiling-fan-original-imaha5fddeyyhbjg.jpg",
+      "/stardomProduct-20250823T125051Z-1-001/stardomProduct/fan/eagledecomb/eagle-deco-ultra-high-speed-24-inch-met-blue-55-1-ceiling-fan-original-imaha5fddeyyhbjg.jpg",
     description:
       "Metallic blue decorative fan with ultra high speed performance.",
     rating: 4.7,
