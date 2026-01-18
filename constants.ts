@@ -1,6 +1,6 @@
 import { Product, Slide } from "./types";
 
-export const CATEGORIES = ["Fans", "Geysers", "Room Heaters"] as const;
+export const CATEGORIES = ["Fans", "Geysers", "roomHeaters"] as const;
 
 export const HERO_SLIDES: Slide[] = [
   {
@@ -224,7 +224,7 @@ export const PRODUCTS: Product[] = [
     category: "Geysers",
     price: 4999.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyser electric/F1.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyserElectric/F1.jpg",
     description: "Compact electric geyser with fast heating technology.",
     rating: 4.2,
     features: [
@@ -240,7 +240,7 @@ export const PRODUCTS: Product[] = [
     category: "Geysers",
     price: 5999.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyser electric/Geyser main Image.jpg",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyserElectric/Geyser main Image.jpg",
     description: "Premium electric geyser with advanced heating technology.",
     rating: 4.5,
     features: [
@@ -256,7 +256,7 @@ export const PRODUCTS: Product[] = [
     category: "Geysers",
     price: 4499.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyser electric/Hot-Duck.png",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/geyserElectric/Hot-Duck.png",
     description: "Affordable electric geyser with reliable performance.",
     rating: 4.1,
     features: [
@@ -267,15 +267,15 @@ export const PRODUCTS: Product[] = [
     ],
   },
 
-  // Room Heaters Category
+  // roomHeaters Category
   {
     id: "heater-1",
-    name: "GD Room Heater",
-    category: "Room Heaters",
+    name: "GD roomHeater",
+    category: "roomHeaters",
     price: 1999.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/room heater/GD-Heater-1a.jpg",
-    description: "Compact room heater with efficient heating performance.",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/roomHeater/GD-Heater-1a.jpg",
+    description: "Compact roomHeater with efficient heating performance.",
     rating: 4.0,
     features: [
       "Compact Size",
@@ -286,12 +286,12 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "heater-2",
-    name: "Stardom Room Heater",
-    category: "Room Heaters",
+    name: "Stardom roomHeater",
+    category: "roomHeaters",
     price: 2499.0,
     image:
-      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/room heater/Room-Heater-1.jpg",
-    description: "Premium room heater with advanced heating technology.",
+      "/assets/stardomProduct-20250823T125051Z-1-001/stardomProduct/roomHeater/Room-Heater-1.jpg",
+    description: "Premium roomHeater with advanced heating technology.",
     rating: 4.3,
     features: [
       "Advanced Heating",

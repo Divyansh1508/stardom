@@ -109,10 +109,10 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <NavLink
-                  to="/products?cat=Room Heaters"
+                  to="/products?cat=roomHeaters"
                   className="text-slate-300 hover:text-white"
                 >
-                  Room Heaters
+                  roomHeaters
                 </NavLink>
               </li>
             </ul>

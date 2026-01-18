@@ -9,7 +9,7 @@ export interface Product {
   features: string[];
 }
 
-export type Category = "Fans" | "Geysers" | "Room Heaters";
+export type Category = "Fans" | "Geysers" | "roomHeaters";
 
 export interface Slide {
   id: number;
